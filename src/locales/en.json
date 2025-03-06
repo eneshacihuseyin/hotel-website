@@ -1,3 +1,32 @@
 {
-
+  "home": {
+    "header": {
+      "links": {
+        "home": "Home",
+        "about": "About Us",
+        "contact": "Contact",
+        "changeLn": {
+          "en": "EN",
+          "tr": "TR"
+        }
+      },
+      "slogan": "Not just a hotel, but a place that feels like home",
+      "features": {
+        "title":"Features",
+        "f1":"" ,
+        "f2":"" ,
+        "f3":"" ,
+        "f4": "",
+        "f5": ""
+      }
+    },
+    "reservation": {
+      "title": "Online Reservation",
+      "checkin":"Check In",
+      "checkout": "Check Out",
+      "adults": "Adults",
+      "kids": "Kids",
+      "button": "Check Now"
+    }
+  }
 }

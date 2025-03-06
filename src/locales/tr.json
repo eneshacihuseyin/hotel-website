@@ -1,3 +1,32 @@
 {
-
+  "home": {
+    "header": {
+      "links": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımızda",
+        "contact": "İletişim",
+        "changeLn": {
+          "en": "EN",
+          "tr": "TR"
+        }
+      },
+      "slogan": "Sadece bir otel değil, eviniz gibi hissedeceğiniz bir yer",
+      "features": {
+        "title":"Features",
+        "f1":"" ,
+        "f2":"" ,
+        "f3":"" ,
+        "f4": "",
+        "f5": ""
+      }
+    },
+    "reservation": {
+      "title": "Online Rezervasyon",
+      "checkin":"Başlangıç",
+      "checkout": "Bitiş",
+      "adults": "Yetişkin",
+      "kids": "Çocuk",
+      "button": "Şimdi Kontrol Et"
+    }
+  }
 }
