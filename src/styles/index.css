@@ -6,8 +6,8 @@
 
 @layer base {
   :root {
-    --background: #f0f0ff;
-    --foreground: #20203f;
+    --background: #f7f7ff;
+    --foreground: #606073;
     --card: oklch(1 0 0);
     --card-foreground: oklch(0.37 0.09 260);
     --popover: oklch(1 0 0);
