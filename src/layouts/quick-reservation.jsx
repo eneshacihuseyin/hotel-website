@@ -11,7 +11,7 @@ function QuickReservation() {
     return (
         <div className="quick-reservation flex flex-col gap-5 justify-start items-center w-screen h-[30vh]">
             <div className="text-3xl font-bold">{t("home.reservation.title")}</div>
-            <div className="container w-[75vw] h-[8vh] flex justify-center shadow-md rounded-md">
+            <div className="container w-[75vw] h-[8vh] flex justify-center shadow-md  rounded-md overflow-hidden">
                 <DatePicker locale={language} placeholder={t("home.reservation.checkin")} className="h-[8vh] border-0 bg-white border-r rounded-none" />
                 <DatePicker locale={language} placeholder={t("home.reservation.checkout")} className="h-[8vh] border-0 bg-white border-r rounded-none" />
                 <Select>

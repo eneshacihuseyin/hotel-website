@@ -27,6 +27,9 @@
       "adults": "Adults",
       "kids": "Kids",
       "button": "Check Now"
+    },
+    "rooms": {
+      "title": "Rooms"
     }
   }
 }
