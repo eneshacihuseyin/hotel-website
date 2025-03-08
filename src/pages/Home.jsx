@@ -1,15 +1,16 @@
 import {useTranslation} from "react-i18next";
 import Header from "@/layouts/header.jsx";
 import QuickReservation from "@/layouts/quick-reservation.jsx";
+import Rooms from "@/layouts/rooms.jsx";
 
 
 function Home() {
 
-    const {t, i18n} = useTranslation();
     return (
-        <div>
+        <div className="overflow-x-hidden">
             <Header/>
             <QuickReservation/>
+            <Rooms/>
         </div>
     );
 }
